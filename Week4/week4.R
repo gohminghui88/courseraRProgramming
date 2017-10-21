@@ -1,5 +1,7 @@
 library(dplyr);
 
+#in quiz, the codes for rankall, hospital must change to name. 
+
 #outcome <- read.csv("D:/MyCourses/RProgramming/Week4/outcome-of-care-measures.csv", colClasses = "character");
 
 #head(outcome);
